@@ -1,0 +1,39 @@
+_repo: Adventures-of-Huckleberry-Finn-Chapters-21-to-25_7104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Missouri -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Finn, Huckleberry (Fictitious character) -- Fiction'
+- !lcsh 'Race relations -- Fiction'
+- GITenberg
+title: Adventures of Huckleberry Finn, Chapters 21 to 25
+url: http://www.gutenberg.org/ebooks/7104
